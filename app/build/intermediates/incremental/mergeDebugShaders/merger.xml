@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
+<merger version="3"><dataSet config="main"><source path="C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\debug\shaders"/></dataSet></merger>
+=======
 <merger version="3"><dataSet config="main"><source path="F:\BkashVerificationSystem\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="F:\BkashVerificationSystem\app\src\debug\shaders"/></dataSet></merger>
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef

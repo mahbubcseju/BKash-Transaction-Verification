@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+#Sun Oct 07 22:34:08 BDT 2018
+base.0=C\:\\Users\\student\\AndroidStudioProjects\\BkashVerificationSystem\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7b0c48438f805c913b63e36ccec6c2c8be63cf89
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\student\\AndroidStudioProjects\\BkashVerificationSystem\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5e94c38f2f399c73138a716372e032d129f2c192\\classes.dex
+base.1=C\:\\Users\\student\\AndroidStudioProjects\\BkashVerificationSystem\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5e94c38f2f399c73138a716372e032d129f2c192
+file.0=C\:\\Users\\student\\AndroidStudioProjects\\BkashVerificationSystem\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7b0c48438f805c913b63e36ccec6c2c8be63cf89\\classes.dex
+=======
 #Sun Oct 07 14:17:55 BDT 2018
 base.0=F\:\\BkashVerificationSystem\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_73455f3a7dc0d1f4201d47469b8131734ed4a2ce
 renamed.1=classes2.dex
@@ -5,3 +14,4 @@ renamed.0=classes.dex
 file.1=F\:\\BkashVerificationSystem\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8bab1aa0539bc567a277fa503aec02b0a6dbba57\\classes.dex
 base.1=F\:\\BkashVerificationSystem\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8bab1aa0539bc567a277fa503aec02b0a6dbba57
 file.0=F\:\\BkashVerificationSystem\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_73455f3a7dc0d1f4201d47469b8131734ed4a2ce\\classes.dex
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef

@@ -1,10 +1,19 @@
 [
     {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\student\\AndroidStudioProjects\\BkashVerificationSystem\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\student\\.android\\build-cache\\d26e91cede313e0c61a97e84fc510209694068b4\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\student\\AndroidStudioProjects\\BkashVerificationSystem\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\student\\.android\\build-cache\\d26e91cede313e0c61a97e84fc510209694068b4\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+=======
         "merged": "F:\\BkashVerificationSystem\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
         "source": "C:\\Users\\Student\\.android\\build-cache\\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
         "merged": "F:\\BkashVerificationSystem\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
         "source": "C:\\Users\\Student\\.android\\build-cache\\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef
     }
 ]

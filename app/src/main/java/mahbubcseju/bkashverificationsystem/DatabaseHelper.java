@@ -15,7 +15,11 @@ import android.database.sqlite.SQLiteOpenHelper;
  */
 public class DatabaseHelper extends SQLiteOpenHelper {
     public static final String DATABASE_NAME = "bKash.db";
+<<<<<<< HEAD
+    public static final String TABLE_NAME = "table1";
+=======
     public static final String TABLE_NAME = "table";
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef
     public static final String COL_1 = "ID";
     public static final String COL_2 = "PHN";
     public static final String COL_3 = "DATE";

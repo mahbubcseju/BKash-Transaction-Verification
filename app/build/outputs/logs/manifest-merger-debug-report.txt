@@ -1,5 +1,146 @@
 -- Merging decision tree log ---
 manifest
+<<<<<<< HEAD
+ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:4:5-72
+	android:name
+		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:4:22-69
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:5:5-75
+	android:name
+		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:5:22-72
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:7:5-70
+	android:name
+		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:7:22-67
+uses-permission#android.permission.READ_SMS
+ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.WRITE_SMS
+ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:9:22-65
+uses-permission#android.permission.RECEIVE_MMS
+ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:10:5-70
+	android:name
+		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:10:22-67
+uses-permission#android.permission.WRITE
+ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:11:5-64
+	android:name
+		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:11:22-61
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:12:22-63
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:14:22-78
+application
+ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:16:5-37:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\student\.android\build-cache\d26e91cede313e0c61a97e84fc510209694068b4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\student\.android\build-cache\291870b7bc439af38057c3e399a9140f1f6da23c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\student\.android\build-cache\b9a78e5510445b447dfa0d9223365ea6a628c616\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\student\.android\build-cache\05e50693616027e12f806a3d7c460f5c4e16df36\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\student\.android\build-cache\c8c2114ebb68b80322c569574e57c04ef3517162\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\student\.android\build-cache\183b7fa83f5890417acacb5656d12b7cc0fab711\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\student\.android\build-cache\2a221be0fb94070fc2dc82adabcc6e232fa594a0\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\student\.android\build-cache\d59719b3d932aea9ea4bcb2ad2f1c3e4e245f2e7\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\student\.android\build-cache\fd46aabe903ce17b47a199fec39021695434a076\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\student\.android\build-cache\846ab04580c26fc991f6f95f7cdf7be39c6ef16e\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:19:9-41
+	android:supportsRtl
+		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:21:9-35
+	android:roundIcon
+		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:20:9-54
+	android:allowBackup
+		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:18:9-43
+	android:theme
+		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:22:9-40
+activity#mahbubcseju.bkashverificationsystem.MainActivity
+ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:23:9-29:20
+	android:name
+		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:23:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:27:27-74
+receiver#mahbubcseju.bkashverificationsystem.SmsReceiver
+ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:31:9-35:20
+	android:name
+		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:31:19-46
+intent-filter#android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:32:13-34:29
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:33:17-81
+	android:name
+		ADDED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml:33:25-79
+uses-sdk
+INJECTED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\student\.android\build-cache\d26e91cede313e0c61a97e84fc510209694068b4\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\student\.android\build-cache\291870b7bc439af38057c3e399a9140f1f6da23c\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\student\.android\build-cache\b9a78e5510445b447dfa0d9223365ea6a628c616\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\student\.android\build-cache\05e50693616027e12f806a3d7c460f5c4e16df36\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\student\.android\build-cache\c8c2114ebb68b80322c569574e57c04ef3517162\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\student\.android\build-cache\183b7fa83f5890417acacb5656d12b7cc0fab711\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\student\.android\build-cache\2a221be0fb94070fc2dc82adabcc6e232fa594a0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\student\.android\build-cache\d59719b3d932aea9ea4bcb2ad2f1c3e4e245f2e7\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\student\.android\build-cache\fd46aabe903ce17b47a199fec39021695434a076\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\student\.android\build-cache\846ab04580c26fc991f6f95f7cdf7be39c6ef16e\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\student\.android\build-cache\d26e91cede313e0c61a97e84fc510209694068b4\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\student\AndroidStudioProjects\BkashVerificationSystem\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\student\.android\build-cache\d26e91cede313e0c61a97e84fc510209694068b4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\student\.android\build-cache\291870b7bc439af38057c3e399a9140f1f6da23c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\student\.android\build-cache\b9a78e5510445b447dfa0d9223365ea6a628c616\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\student\.android\build-cache\05e50693616027e12f806a3d7c460f5c4e16df36\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\student\.android\build-cache\c8c2114ebb68b80322c569574e57c04ef3517162\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\student\.android\build-cache\183b7fa83f5890417acacb5656d12b7cc0fab711\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\student\.android\build-cache\2a221be0fb94070fc2dc82adabcc6e232fa594a0\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\student\.android\build-cache\d59719b3d932aea9ea4bcb2ad2f1c3e4e245f2e7\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\student\.android\build-cache\fd46aabe903ce17b47a199fec39021695434a076\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\student\.android\build-cache\d26e91cede313e0c61a97e84fc510209694068b4\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\student\.android\build-cache\d26e91cede313e0c61a97e84fc510209694068b4\output\AndroidManifest.xml:26:9-47
+=======
 ADDED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml:2:1-28:12
 	package
 		ADDED from F:\BkashVerificationSystem\app\src\main\AndroidManifest.xml:3:5-50
@@ -107,3 +248,4 @@ MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Student\.androi
 		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Student\.android\build-cache\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\output\AndroidManifest.xml:27:9-31
 	android:name
 		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Student\.android\build-cache\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\output\AndroidManifest.xml:26:9-47
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef

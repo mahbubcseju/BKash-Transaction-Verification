@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
+        "outputFile": "C:\\Users\\student\\AndroidStudioProjects\\BkashVerificationSystem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+=======
         "outputFile": "F:\\BkashVerificationSystem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef
         "map": [
             {
                 "to": {
@@ -11,7 +15,11 @@
                     "endOffset": 109
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\student\\.android\\build-cache\\d26e91cede313e0c61a97e84fc510209694068b4\\output\\res\\values-large-v4\\values-large-v4.xml",
+=======
                     "file": "C:\\Users\\Student\\.android\\build-cache\\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\\output\\res\\values-large-v4\\values-large-v4.xml",
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +38,11 @@
                     "endOffset": 180
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\student\\.android\\build-cache\\d26e91cede313e0c61a97e84fc510209694068b4\\output\\res\\values-large-v4\\values-large-v4.xml",
+=======
                     "file": "C:\\Users\\Student\\.android\\build-cache\\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\\output\\res\\values-large-v4\\values-large-v4.xml",
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +61,11 @@
                     "endOffset": 251
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\student\\.android\\build-cache\\d26e91cede313e0c61a97e84fc510209694068b4\\output\\res\\values-large-v4\\values-large-v4.xml",
+=======
                     "file": "C:\\Users\\Student\\.android\\build-cache\\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\\output\\res\\values-large-v4\\values-large-v4.xml",
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +84,11 @@
                     "endOffset": 321
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\student\\.android\\build-cache\\d26e91cede313e0c61a97e84fc510209694068b4\\output\\res\\values-large-v4\\values-large-v4.xml",
+=======
                     "file": "C:\\Users\\Student\\.android\\build-cache\\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\\output\\res\\values-large-v4\\values-large-v4.xml",
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +107,11 @@
                     "endOffset": 391
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\student\\.android\\build-cache\\d26e91cede313e0c61a97e84fc510209694068b4\\output\\res\\values-large-v4\\values-large-v4.xml",
+=======
                     "file": "C:\\Users\\Student\\.android\\build-cache\\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\\output\\res\\values-large-v4\\values-large-v4.xml",
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -106,7 +130,11 @@
                     "endOffset": 459
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\student\\.android\\build-cache\\d26e91cede313e0c61a97e84fc510209694068b4\\output\\res\\values-large-v4\\values-large-v4.xml",
+=======
                     "file": "C:\\Users\\Student\\.android\\build-cache\\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\\output\\res\\values-large-v4\\values-large-v4.xml",
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -125,7 +153,11 @@
                     "endOffset": 527
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\student\\.android\\build-cache\\d26e91cede313e0c61a97e84fc510209694068b4\\output\\res\\values-large-v4\\values-large-v4.xml",
+=======
                     "file": "C:\\Users\\Student\\.android\\build-cache\\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\\output\\res\\values-large-v4\\values-large-v4.xml",
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -144,7 +176,11 @@
                     "endOffset": 631
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\student\\.android\\build-cache\\d26e91cede313e0c61a97e84fc510209694068b4\\output\\res\\values-large-v4\\values-large-v4.xml",
+=======
                     "file": "C:\\Users\\Student\\.android\\build-cache\\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\\output\\res\\values-large-v4\\values-large-v4.xml",
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -163,7 +199,11 @@
                     "endOffset": 747
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\student\\.android\\build-cache\\d26e91cede313e0c61a97e84fc510209694068b4\\output\\res\\values-large-v4\\values-large-v4.xml",
+=======
                     "file": "C:\\Users\\Student\\.android\\build-cache\\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\\output\\res\\values-large-v4\\values-large-v4.xml",
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,

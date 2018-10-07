@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
+        "outputFile": "C:\\Users\\student\\AndroidStudioProjects\\BkashVerificationSystem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pa-rIN\\values-pa-rIN.xml",
+=======
         "outputFile": "F:\\BkashVerificationSystem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pa-rIN\\values-pa-rIN.xml",
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef
         "map": [
             {
                 "to": {
@@ -11,7 +15,11 @@
                     "endOffset": 156
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\student\\.android\\build-cache\\d26e91cede313e0c61a97e84fc510209694068b4\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+=======
                     "file": "C:\\Users\\Student\\.android\\build-cache\\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +38,11 @@
                     "endOffset": 264
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\student\\.android\\build-cache\\d26e91cede313e0c61a97e84fc510209694068b4\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+=======
                     "file": "C:\\Users\\Student\\.android\\build-cache\\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +61,11 @@
                     "endOffset": 387
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\student\\.android\\build-cache\\d26e91cede313e0c61a97e84fc510209694068b4\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+=======
                     "file": "C:\\Users\\Student\\.android\\build-cache\\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +84,11 @@
                     "endOffset": 492
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\student\\.android\\build-cache\\d26e91cede313e0c61a97e84fc510209694068b4\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+=======
                     "file": "C:\\Users\\Student\\.android\\build-cache\\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +107,11 @@
                     "endOffset": 597
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\student\\.android\\build-cache\\d26e91cede313e0c61a97e84fc510209694068b4\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+=======
                     "file": "C:\\Users\\Student\\.android\\build-cache\\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -106,7 +130,11 @@
                     "endOffset": 683
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\student\\.android\\build-cache\\d26e91cede313e0c61a97e84fc510209694068b4\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+=======
                     "file": "C:\\Users\\Student\\.android\\build-cache\\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -125,7 +153,11 @@
                     "endOffset": 783
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\student\\.android\\build-cache\\d26e91cede313e0c61a97e84fc510209694068b4\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+=======
                     "file": "C:\\Users\\Student\\.android\\build-cache\\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -144,7 +176,11 @@
                     "endOffset": 896
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\student\\.android\\build-cache\\d26e91cede313e0c61a97e84fc510209694068b4\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+=======
                     "file": "C:\\Users\\Student\\.android\\build-cache\\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -163,7 +199,11 @@
                     "endOffset": 973
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\student\\.android\\build-cache\\d26e91cede313e0c61a97e84fc510209694068b4\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+=======
                     "file": "C:\\Users\\Student\\.android\\build-cache\\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -182,7 +222,11 @@
                     "endOffset": 1049
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\student\\.android\\build-cache\\d26e91cede313e0c61a97e84fc510209694068b4\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+=======
                     "file": "C:\\Users\\Student\\.android\\build-cache\\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -201,7 +245,11 @@
                     "endOffset": 1128
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\student\\.android\\build-cache\\d26e91cede313e0c61a97e84fc510209694068b4\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+=======
                     "file": "C:\\Users\\Student\\.android\\build-cache\\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -220,7 +268,11 @@
                     "endOffset": 1229
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\student\\.android\\build-cache\\d26e91cede313e0c61a97e84fc510209694068b4\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+=======
                     "file": "C:\\Users\\Student\\.android\\build-cache\\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -239,7 +291,11 @@
                     "endOffset": 1330
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\student\\.android\\build-cache\\d26e91cede313e0c61a97e84fc510209694068b4\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+=======
                     "file": "C:\\Users\\Student\\.android\\build-cache\\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -258,7 +314,11 @@
                     "endOffset": 1427
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\student\\.android\\build-cache\\d26e91cede313e0c61a97e84fc510209694068b4\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+=======
                     "file": "C:\\Users\\Student\\.android\\build-cache\\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -277,7 +337,11 @@
                     "endOffset": 1536
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\student\\.android\\build-cache\\d26e91cede313e0c61a97e84fc510209694068b4\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+=======
                     "file": "C:\\Users\\Student\\.android\\build-cache\\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -296,7 +360,11 @@
                     "endOffset": 1635
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\student\\.android\\build-cache\\d26e91cede313e0c61a97e84fc510209694068b4\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+=======
                     "file": "C:\\Users\\Student\\.android\\build-cache\\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -315,7 +383,11 @@
                     "endOffset": 1745
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\student\\.android\\build-cache\\d26e91cede313e0c61a97e84fc510209694068b4\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+=======
                     "file": "C:\\Users\\Student\\.android\\build-cache\\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -334,7 +406,11 @@
                     "endOffset": 1867
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\student\\.android\\build-cache\\d26e91cede313e0c61a97e84fc510209694068b4\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+=======
                     "file": "C:\\Users\\Student\\.android\\build-cache\\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -353,7 +429,11 @@
                     "endOffset": 1967
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\student\\.android\\build-cache\\d26e91cede313e0c61a97e84fc510209694068b4\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+=======
                     "file": "C:\\Users\\Student\\.android\\build-cache\\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -372,7 +452,11 @@
                     "endOffset": 2046
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\student\\.android\\build-cache\\d26e91cede313e0c61a97e84fc510209694068b4\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+=======
                     "file": "C:\\Users\\Student\\.android\\build-cache\\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -391,7 +475,11 @@
                     "endOffset": 2147
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\student\\.android\\build-cache\\d26e91cede313e0c61a97e84fc510209694068b4\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+=======
                     "file": "C:\\Users\\Student\\.android\\build-cache\\b2afff3316d9799480741c3a1e6bc5a0ca7c8964\\output\\res\\values-pa-rIN\\values-pa-rIN.xml",
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,

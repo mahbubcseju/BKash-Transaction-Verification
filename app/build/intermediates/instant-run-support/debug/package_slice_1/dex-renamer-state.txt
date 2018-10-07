@@ -1,4 +1,11 @@
+<<<<<<< HEAD
+#Sun Oct 07 22:34:08 BDT 2018
+base.0=C\:\\Users\\student\\AndroidStudioProjects\\BkashVerificationSystem\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1
+renamed.0=classes.dex
+file.0=C\:\\Users\\student\\AndroidStudioProjects\\BkashVerificationSystem\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1\\classes.dex
+=======
 #Sun Oct 07 11:17:20 BDT 2018
 base.0=F\:\\BkashVerificationSystem\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1
 renamed.0=classes.dex
 file.0=F\:\\BkashVerificationSystem\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1\\classes.dex
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef

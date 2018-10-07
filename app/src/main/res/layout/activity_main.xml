@@ -10,12 +10,61 @@
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent">
+<<<<<<< HEAD
+        <!--<TableLayout-->
+            <!--android:id="@+id/table"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:padding="0dp"-->
+            <!--android:stretchColumns="*">-->
+        <!--</TableLayout>-->
+        <TableLayout
+            android:id="@+id/table"
+            android:layout_width="match_parent"
+            android:layout_height="354dp"
+            android:background="#6495ED"
+            android:stretchColumns="*" >
+
+
+        <TableRow
+            android:id="@+id/tablerow1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Phone"
+                />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="TrxID"
+                />
+
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Balance" />
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Date" />
+        </TableRow>
+=======
         <TableLayout
             android:id="@+id/table"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:padding="0dp"
             android:stretchColumns="*">
+>>>>>>> b81b68751bc44f779ffab8e4f1558e6fe62e65ef
         </TableLayout>
     </ScrollView>
 </LinearLayout>
